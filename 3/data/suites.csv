@@ -1,4 +1,4 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"broken","Thu Oct 12 18:26:42 GMT 2023","Thu Oct 12 18:26:43 GMT 2023","1030","tests","test_selene_with_decorator","","","","test_decorator_steps",""
-"broken","Thu Oct 12 18:26:43 GMT 2023","Thu Oct 12 18:26:44 GMT 2023","1026","tests","test_selene_with_steps","","","","test_github",""
-"broken","Thu Oct 12 18:26:39 GMT 2023","Thu Oct 12 18:26:42 GMT 2023","2505","tests","test_selene","","","","test_github",""
+"broken","Thu Oct 12 18:33:43 GMT 2023","Thu Oct 12 18:33:44 GMT 2023","856","tests","test_selene_with_decorator","","","","test_decorator_steps",""
+"broken","Thu Oct 12 18:33:44 GMT 2023","Thu Oct 12 18:33:45 GMT 2023","854","tests","test_selene_with_steps","","","","test_github",""
+"broken","Thu Oct 12 18:33:38 GMT 2023","Thu Oct 12 18:33:43 GMT 2023","5012","tests","test_selene","","","","test_github",""
