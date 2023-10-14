@@ -1,5 +1,5 @@
-selene>=2.0.0rc4
-pytest
+pytest~=7.4.2
+selene==2.0.0rc4
 allure-pytest
-webdriver-manager==4.0.1
+webdriver-manager==3.8.6
 selenium~=4.14.0
