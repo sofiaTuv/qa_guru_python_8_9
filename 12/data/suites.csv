@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Oct 14 14:30:00 GMT 2023","Sat Oct 14 14:30:03 GMT 2023","2747","tests","test_selene_with_decorator","","","","test_decorator_steps",""
+"passed","Sat Oct 14 14:29:55 GMT 2023","Sat Oct 14 14:30:00 GMT 2023","5001","tests","test_selene","","","","test_github",""
+"passed","Sat Oct 14 14:30:03 GMT 2023","Sat Oct 14 14:30:06 GMT 2023","3194","tests","test_selene_with_steps","","","","test_github",""
